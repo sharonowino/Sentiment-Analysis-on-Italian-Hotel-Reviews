@@ -28,10 +28,10 @@ The dataset encompasses a wide range of reviews covering various travel destinat
 ## Variable description
 
 The dataset contains 20k italian's comment scraped. The data frame is composed by 5 features:               
-**comment :** the entire comment.
-**title :** the description of the comment.
-**stars :** the review score.
-**name:** the article writer name.
-**date:** when the comment was written.
+**comment :** the entire comment.                        
+**title :** the description of the comment.                          
+**stars :** the review score.                         
+**name:** the article writer name.                            
+**date:** when the comment was written.                                       
 
 The dataset is collected in a structured format, ensuring ease of use for data analysis and machine learning tasks. It can be utilized to train and evaluate models for sentiment classification, topic modeling, text summarization, and more.
